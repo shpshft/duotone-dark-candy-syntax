@@ -1,0 +1,21 @@
+{
+  "name": "duotone-dark-candy-syntax",
+  "theme": "syntax",
+  "version": "2.0.0",
+  "description": "A dark Atom syntax theme. Derived from the DuoTone Dark family.",
+  "keywords": [
+    "dark",
+    "purple",
+    "magenta",
+    "duotone",
+    "syntax"
+  ],
+  "repository": "https://github.com/bynines/duotone-dark-candy-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">1.0.0"
+  },
+  "dependencies": {
+    "duotone-syntax": "^2.0.0"
+  }
+}
